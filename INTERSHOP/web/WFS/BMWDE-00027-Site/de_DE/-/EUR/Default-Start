@@ -1,5 +1,5 @@
 <html>
 <body>
-<script>alert(document.cookie)</script>
+<h2>OPEN REDIRECT by @madusec</h2>
 </body>
 </html>
